@@ -267,4 +267,8 @@ input[type=submit] {
    {
     width: 100%;
   }
+  #masthead
+  {
+    position: static;
+  }
 }
