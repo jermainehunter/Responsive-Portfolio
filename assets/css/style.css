@@ -215,3 +215,56 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+/** this is the 980 max width**/
+@media screen and (max-width: 980px) {
+  body {
+    background-color: #333;
+  }
+
+  .wrapper {
+    /* Box-model */
+    width: 100%;
+    padding: 20px;
+  }
+
+  #container,
+   {
+    width: 100%;
+  }
+}
+
+/** this is the 760 max width**/
+@media screen and (max-width: 760px) {
+  body {
+    
+  }
+
+  .wrapper {
+    /* Box-model */
+    width: 100%;
+    padding: 20px;
+  }
+
+  #container,
+   {
+    width: 100%;
+  }
+}
+
+/** this is the 640 max width**/
+@media screen and (max-width: 640px) {
+  body {
+    
+  }
+
+  .wrapper {
+    /* Box-model */
+    width: 100%;
+    padding: 20px;
+  }
+
+  #container,
+   {
+    width: 100%;
+  }
+}
