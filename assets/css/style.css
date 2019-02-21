@@ -269,6 +269,6 @@ input[type=submit] {
   }
   #masthead
   {
-    position: static;
+    position: static !important;
   }
 }
